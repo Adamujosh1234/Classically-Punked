@@ -2,19 +2,24 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The objective of this project involved extracting distinctive features from music spanning 10 diverse genres, with the aim of developing a predictive model to identify the genre classification.
 
 ## Description
-TODO - How have you solved the problem?
+To address this challenge, I employed a set of Python modules, comprising:
+
+1. The 'os' module to manage audio file handling.
+2. The 'Librosa' and 'matplotlib' modules for feature extraction and visualization of audio files.
+3. The 'numpy' module to facilitate mathematical operations on arrays.
+4. The 'json' module for preserving audio file features.
+5. The 'sci-kit learn' module for partitioning data into training and testing subsets.
+6. The 'Tensorflow' module to design and implement the Convolutional Neural Network (CNN).
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+No installation is required for this project. Nevertheless, to effectively run this project, ensure that the 'Librosa' and 'Tensorflow' modules are installed.
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+This project was written on google collab. 
+
 
 ### The Core Team
 
